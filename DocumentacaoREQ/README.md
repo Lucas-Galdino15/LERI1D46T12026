@@ -32,7 +32,9 @@ Reserva de Última Hora: Reservas solicitadas com menos de 2 horas de antecedên
 Inserir aqui o Requisito Funcional
 
 ## 4. Controle de Versão @
-
+Versão,Data,Autor,Alteração,Motivo
+1.0.0,15/01/2026,Analista,Criação do RF-010,Definição inicial.
+2.0.0,10/02/2026,Analista,Adição de Regra VIP,Solicitação comercial.
 ### 4.1 Histórico de Alterações @
 
 ## 5. Aprovação @
