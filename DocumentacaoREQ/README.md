@@ -29,16 +29,15 @@ Reserva VIP: Clientes com status VIP autenticado podem realizar reservas com at�
 
 Reserva de Última Hora: Reservas solicitadas com menos de 2 horas de antecedência são permitidas, desde que o sistema aplique automaticamente uma taxa adicional de 15% sobre o valor total da reserva.
 
-Inserir aqui o Requisito Funcional
 
 ## 4. Controle de Versão @
 
-### 4.1 Histórico de Alterações @
 ### 4.1 Histórico de Alterações @
 | Versão | Data | Autor | Alteração | Motivo |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0.0 | 15/01/2026 | Analista | Criação do RF-010 | Definição inicial. |
 | 2.0.0 | 10/02/2026 | Analista | Adição de Regra VIP | Solicitação comercial. |
+| 3.0.0 | 05/03/2026 | Analista | Inclusão de Taxa de Urgência | Política de ocupação. |
 
 ## 5. Aprovação @
 Este documento foi revisado e as regras de negócio do RF-010 foram validadas pelos responsáveis.
