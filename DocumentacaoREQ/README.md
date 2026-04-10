@@ -32,9 +32,19 @@ Reserva de Última Hora: Reservas solicitadas com menos de 2 horas de antecedên
 Inserir aqui o Requisito Funcional
 
 ## 4. Controle de Versão @
-Versão,Data,Autor,Alteração,Motivo
-1.0.0,15/01/2026,Analista,Criação do RF-010,Definição inicial.
-2.0.0,10/02/2026,Analista,Adição de Regra VIP,Solicitação comercial.
+
 ### 4.1 Histórico de Alterações @
+### 4.1 Histórico de Alterações @
+| Versão | Data | Autor | Alteração | Motivo |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0.0 | 15/01/2026 | Analista | Criação do RF-010 | Definição inicial. |
+| 2.0.0 | 10/02/2026 | Analista | Adição de Regra VIP | Solicitação comercial. |
 
 ## 5. Aprovação @
+Este documento foi revisado e as regras de negócio do RF-010 foram validadas pelos responsáveis.
+
+Gerente de Produto (PO): Aprovado em 05/03/2026.
+
+Líder Técnico: Aprovado em 05/03/2026.
+
+Gestor Financeiro: Aprovado em 05/03/2026.
