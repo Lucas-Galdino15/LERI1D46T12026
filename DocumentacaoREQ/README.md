@@ -25,13 +25,13 @@ Regras de Negócio:
 
 Critérios de Aceitação:
 
-CA01: O sistema deve impedir reservas com menos de 24h para clientes padrão, emitindo alerta sobre a taxa de urgência.
+CA 01: O sistema deve impedir reservas com menos de 24h para clientes padrão, emitindo alerta sobre a taxa de urgência.
 
-CA02: O sistema deve validar o status "VIP" no banco de dados antes de liberar o calendário de 12 meses.
+CA 02: O sistema deve validar o status "VIP" no banco de dados antes de liberar o calendário de 12 meses.
 
-CA03: O cálculo da taxa de 15% deve ser exibido de forma discriminada no resumo do checkout para reservas < 2h.
+CA 03: O cálculo da taxa de 15% deve ser exibido de forma discriminada no resumo do checkout para reservas < 2h.
 
-CA04: O sistema deve bloquear qualquer tentativa de reserva com antecedência maior que 365 dias.
+CA 04: O sistema deve bloquear qualquer tentativa de reserva com antecedência maior que 365 dias.
 
 Reserva Padrão: O sistema deve permitir reservas com antecedência mínima de 24 horas e máxima de 6 meses.
 
