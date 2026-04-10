@@ -39,24 +39,19 @@ O SGT será uma aplicação responsiva com sincronização em nuvens.
 
 ### 3.1 Requisitos Funcionais
 
-#### RF-001: Criação de Tarefas 
+#### RF-001: Criação de Tarefas
 
-**Descrição**: O sistema deve permitir que usuárioscriem tarefas com título, descrição, data de vencimento e prioridade.
-**PRioridade**: Alta.
-**Versão**:1.0
-**Data**:2026-03-27
-**Rastreabilidade**: Derivado da necessidade do stakeholder NS-001
+**Descrinção**: Osisitema deve permitir que usuários criemm tarefas com título, descrinção, data de vencimento e prioridade.
+**Prioridade**: Alta
+**Versão**: 1.0
+**Data**: 2026-03-27
+**Rastreabilidade**: Derivando da necessidade do stakeholders NS-001
 
 **Critérios de Aceitação**:
 
-- [ ] Formulário com Campos Obrigatório (título) e Opcionais
-- [ ] - [ ] Validação de data (não permitir datas passadas)
-- [ ] Níveis de prioridade: Baixa, Média, Alta
-- [ ] Confirmação Visual após criação
-
-**Dependências**: Nenhuma
-
----
+- [ ] Tarefas podem ser atribuidas um ou nehum projeto
+- [ ] Visualização filtrada por projeto
+- [ ] Usuário pode criar, renomear e excluuir projetos
 
 #### RF-002: Organização por Projetos
 
@@ -97,13 +92,13 @@ O SGT será uma aplicação responsiva com sincronização em nuvens.
 
 ---
 
-##  4. Controle de Versões
+## 4. Controle de Versões
 
 ### 4.1 Histórico de Alterações
 
 | Versão | Data | Autor | Modificação |
-|--------|------|-------|-------------|
-| 1.0 |2026-03-27 | Equipe de Análise | Versão inicial do documento | 
+|--------|------|--------|------------|
+| 1.0    |2026-03-27| Equipe de Análise | Versão inicial do documento |
 
 
 ### 4.2 Rastrabilidade
@@ -114,7 +109,8 @@ Infográfico de Rastreabilidade do Requisito
 
 graph LR
 
-        NS001["NS-001: Necessidade StakeHolder] --> RF001 ["RF-001: Criação Tarefas"]
-        RF001 -->["TC-001: Teste de Criação"]
+        NS001["NS-001: Necessidade SatakeHolder"] --> RF001["RF-001: Criação Tarefas"]  
+        RF001 --> TC001["TC-001: Teste de Criação"]
+
 
 ``` 
